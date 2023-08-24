@@ -304,8 +304,15 @@
        <height>101</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>60</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -322,7 +329,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>72</pointsize>
+       <pointsize>60</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -334,7 +341,7 @@
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -350,7 +357,7 @@
       </rect>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -367,7 +374,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>72</pointsize>
+       <pointsize>60</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -379,7 +386,7 @@
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -395,7 +402,7 @@
       </rect>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -411,7 +418,7 @@
       </rect>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -427,7 +434,7 @@
       </rect>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -442,8 +449,15 @@
        <height>101</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>60</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
@@ -460,7 +474,7 @@
      </property>
      <property name="font">
       <font>
-       <pointsize>72</pointsize>
+       <pointsize>60</pointsize>
        <weight>75</weight>
        <bold>true</bold>
       </font>
@@ -472,7 +486,7 @@
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:72pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
+      <string notr="true">QPushButton{background-color:#FFFFFF; border:0px; font-size:60pt; font-weight:bold; text-align:center;color:#000000;line-height:101px;padding:10px;}</string>
      </property>
      <property name="text">
       <string/>
